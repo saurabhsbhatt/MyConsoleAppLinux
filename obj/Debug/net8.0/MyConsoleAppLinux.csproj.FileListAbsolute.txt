@@ -1,0 +1,15 @@
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/bin/Debug/net8.0/MyConsoleAppLinux
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/bin/Debug/net8.0/MyConsoleAppLinux.deps.json
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/bin/Debug/net8.0/MyConsoleAppLinux.runtimeconfig.json
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/bin/Debug/net8.0/MyConsoleAppLinux.dll
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/bin/Debug/net8.0/MyConsoleAppLinux.pdb
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.GeneratedMSBuildEditorConfig.editorconfig
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.AssemblyInfoInputs.cache
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.AssemblyInfo.cs
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.csproj.CoreCompileInputs.cache
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.sourcelink.json
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.dll
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/refint/MyConsoleAppLinux.dll
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.pdb
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/MyConsoleAppLinux.genruntimeconfig.cache
+/home/saurabhbhatt/Desktop/SaurabhFiles/MyTestFolder/MyConsoleAppLinux/obj/Debug/net8.0/ref/MyConsoleAppLinux.dll
